@@ -2,9 +2,7 @@
 
 A two-player Pong game written in **Lua** for **LÖVE 11.5**.
 
-**Full name:** TODO - add your full name before submission
-
-**Class / section:** TODO - add your class and section before submission
+**Full name:** Ahmad Khalil
 
 ## About the game
 
